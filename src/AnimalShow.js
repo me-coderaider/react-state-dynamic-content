@@ -1,5 +1,9 @@
 function AnimalShow() {
-    return <div>Cow!!</div>;
+    return (
+        <div>
+            <button>Add Animal</button>
+        </div>
+    );
 }
 
 export default AnimalShow;
