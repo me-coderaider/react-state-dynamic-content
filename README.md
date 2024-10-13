@@ -1,8 +1,6 @@
 # Final Design
 
 ![Alt text](image.png)
-OR
-![Alt text](https://raw.githubusercontent.com/me-coderaider/react-state-dynamic-content/main/image.png)
 
 # Getting Started with Create React App
 
